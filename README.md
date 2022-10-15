@@ -1,2 +1,4 @@
-# UTS-Pengembangan-Aplikasi-Mobile
-UTS Pengembangan Aplikasi Mobile (Membuat Aplikasi Sederhana)
+# Nama-Aplikasi
+Deskripsi Aplikasi
+Package yang digunakan
+Cara install (Mode Pengembangan)
